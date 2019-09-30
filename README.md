@@ -2,9 +2,11 @@
 
 欢迎大家上传自己的代码，或者写点学习笔记
 
-CCSAT LearningHome in 2019
-[Toc]
+CCSAT LearningHome in 2019 
+
 # 学习指南
+- [Linux](linux/index.md)
+- [Python](pythin/index.md)
 
 ## 工具
 - [VMware](https://www.vmware.com/cn/products/personal-desktop-virtualization.html) - 非常好用的桌面虚拟化软件
