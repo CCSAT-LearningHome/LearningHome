@@ -6,7 +6,7 @@ CCSAT LearningHome in 2019
 
 # 学习指南
 - [Linux](linux/index.md)
-- [Python](pythin/index.md)
+- [Python](python/index.md)
 
 ## 工具
 - [VMware](https://www.vmware.com/cn/products/personal-desktop-virtualization.html) - 非常好用的桌面虚拟化软件
