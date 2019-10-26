@@ -4,7 +4,7 @@
 
 CCSAT LearningHome in 2019 
 
-# 学习指南
+# 学习笔记
 - [Linux](linux/index.md)
 - [Python](python/index.md)
 
